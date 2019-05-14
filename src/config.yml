@@ -1,0 +1,9 @@
+botToken: ""
+# ID of the server
+guildID: ""
+# ID of the channel
+channelID: ""
+#All timezones: https://gist.github.com/boolaen/90e421ebc1d206a2e876e9f80eabad47
+timezone: "UCT"
+# Placeholders: %currenttime , %player , %message
+messageFormat: "[%currenttime] __%player__ > *%message*"

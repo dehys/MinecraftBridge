@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinecraftBridge:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinecraftBridge_jar</output-path>
+    <root id="archive" name="mcb2.jar">
+      <element id="module-output" name="mcb2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../JDA-3.8.0_423-withDependencies.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../spigot-1.14.jar" path-in-jar="/" />
+      <element id="library" level="project" name="External Libraries" />
+    </root>
+  </artifact>
+</component>
